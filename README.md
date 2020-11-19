@@ -6,3 +6,4 @@ I wrote most of this with additional general help from [this guide](https://rust
 
 I'd like to add a GUI that would display the automaton at a higher FPS with the ability to set your own 'seed' before running it.
 
+The first of many Rust projects!
